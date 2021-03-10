@@ -1,0 +1,7 @@
+[submodule "camera_mocap_calibration"]
+	path = camera_mocap_calibration
+	url = https://github.com/uf-reef-avl/camera_mocap_calibration
+[submodule "charuco_ros"]
+	path = charuco_ros
+	url = https://github.com/uf-reef-avl/charuco_ros
+
